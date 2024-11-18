@@ -34,7 +34,7 @@ This project is a **modern and dynamic full-stack portfolio**, designed for deve
 ### Steps:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Logipek/portfolio.git 
+   git clone https://github.com/Logipek/Personnal-portfolio.git 
 2. Install dependencies:  
    ```bash
    npm install 
