@@ -35,13 +35,13 @@ Ce projet est un **portfolio full stack** moderne et dynamique, conçu pour les 
 ### Étapes :
 1. Clonez le projet :  
    ```bash
-   git clone https://github.com/Logipek/portfolio.git ```
+   git clone https://github.com/Logipek/portfolio.git 
 2. Installez les dépendances :  
    ```bash
-   npm install ```
+   npm install
 3. Lancez le serveur de développement :
    ```bash
-   num run dev ```
+   num run dev
 4. Accédez au site localement : http://localhost:3000
 
 ---
