@@ -12,6 +12,8 @@ This project is a **modern and dynamic full-stack portfolio**, designed for deve
 
 ### 🎯 Key Features:
 - **Dynamic presentation** of your skills and projects.
+- **Discord integration** for sending messages directly from the website using a Discord API.
+- **Spotify embed** for displaying the currently playing music using the Discord account ID
 - **Display GitHub repositories**, with a "Load more" button to show additional repositories.
 - **Projects Section** featuring detailed blog posts for each project, including links to demos or source code.
 - **Interactive contact form** with easy information management.
@@ -21,7 +23,6 @@ This project is a **modern and dynamic full-stack portfolio**, designed for deve
 ### 🛠️ In Development:
 - **Admin dashboard** to manage projects, content, and customization directly through a user interface.
 - **Multilingual support**, with automatic translation and localization.
-- **Discord integration** for sending messages directly from the website using a Discord API.
 
 ---
 
@@ -43,6 +44,20 @@ This project is a **modern and dynamic full-stack portfolio**, designed for deve
    npm run dev
 4. Access the site locally: [http://localhost:3000](http://localhost:3000).
 
+---
+
+## 📑 Configuration via .env
+
+Before running the project, make sure to configure the necessary environment variables. Create a `.env` file in the root directory of the project and add the following variables:
+
+### Example `.env` file:
+
+```env
+// configuration webhook discord for contact form
+DISCORD_WEBHOOK_URL=
+// user id discord for status spotify
+DISCORD_USER_ID=
+```
 ---
 
 ## 🤝 Contributing to the Project
