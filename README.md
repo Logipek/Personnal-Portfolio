@@ -26,6 +26,14 @@ This project is a **modern and dynamic full-stack portfolio**, designed for deve
 
 ---
 
+## 🚀 Deploy on Vercel
+
+Click the link below to deploy your own version of this portfolio:
+
+[Deploy on Vercel](https://vercel.com/import/project?template=https://github.com/Logipek/Personnal-portfolio)
+
+---
+
 ## 📚 Installation
 
 ### Prerequisites
